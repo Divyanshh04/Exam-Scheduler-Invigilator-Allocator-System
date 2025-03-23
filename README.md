@@ -33,7 +33,7 @@ A **full-stack MERN + SQL** project that automates exam scheduling and invigilat
 ## 🚀 How to Run Locally  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/exam-scheduler.git
+   git clone https://github.com/Divyanshh04/exam-scheduler.git
    cd exam-scheduler
    ```
 2. Install dependencies  
