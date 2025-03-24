@@ -41,7 +41,7 @@ A **full-stack MERN + SQL** project that automates exam scheduling and invigilat
    cd client && npm install  
    cd ../server && npm install  
    ```
-3. Set up **.env** file and database credentials.  
+3. Set up **.env** file and database credential.  
 4. Start the project  
    ```bash
    cd server && npm start  
